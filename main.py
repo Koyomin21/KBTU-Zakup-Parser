@@ -1,6 +1,6 @@
 import csv
 import requests
-from bs4 import BeautifulSoup, StopParsing
+from bs4 import BeautifulSoup
 
 
 URL = 'https://zakup.kbtu.kz/zakupki/sposobom-zaprosa-cenovyh-predlozheniy'
